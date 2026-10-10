@@ -1,1 +1,2 @@
 # AutoMaster - сайт автосервиса
+## Installation
