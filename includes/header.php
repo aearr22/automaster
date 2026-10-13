@@ -1,6 +1,7 @@
 <?php // header
 <?php // header
 <?php // header
+<?php // header
 <?php
 if (session_status() === PHP_SESSION_NONE) {
     session_start();
