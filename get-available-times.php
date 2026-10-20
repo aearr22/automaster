@@ -1,3 +1,4 @@
+<?php // times
 <?php
 require_once 'config/db.php';
 require_once 'includes/schedule_helpers.php';
