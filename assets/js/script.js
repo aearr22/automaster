@@ -1101,3 +1101,4 @@ document.addEventListener('DOMContentLoaded', function () {
 // form validation
 // form validation
 // booking ajax
+// lazy loading images
